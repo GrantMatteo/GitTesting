@@ -2,3 +2,4 @@ A = B
 B = C
 //this is bad code
 awefaewf
+This line was added by someone else
